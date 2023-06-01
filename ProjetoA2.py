@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from transformers import pipeline
 
-st.title('Trabalho A2')
+st.title('Projeto A2')
 st.caption('Aluna: Luana Rodrigues de Melo Moura')
 
 model_path = "cardiffnlp/twitter-xlm-roberta-base-sentiment"
